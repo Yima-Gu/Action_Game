@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Items/Armors/OldShirt/BotW_Old_Shirt_Icon.png</file>
+        <file>Items/Armors/FlamebreakerArmor/BotW_Flamebreaker_Armor_Icon.png</file>
+        <file>Items/HeadEquipments/CapOfTheHero/BotW_Cap_of_the_Hero_Icon.png</file>
+        <file>Items/LegEquipments/WellWornTrousers/BotW_Well-Worn_Trousers_Icon.png</file>
+        <file>Items/Player/NPC_1.png</file>
+        <file>Items/Platform/IronPlatform.png</file>
+        <file>Items/Platform/RockPlatform.png</file>
+        <file>Items/Platform/WoodPlatform.png</file>
+        <file>Items/Maps/Battlefield/BackGround.png</file>
+        <file>Items/Weapon/wooden_short_sword.png</file>
+        <file>Items/Weapon/iron_long_sword.png</file>
+        <file>Items/Bow/wooden_bow.png</file>
+        <file>Items/Arrow/basic_arrow.png</file>
+        <file>Items/Arrow/spare_basic_arrow.png</file>
+        <file>Items/Player/NPC_2.png</file>
+        <file>Items/Bow/iron_bow.png</file>
+        <file>Items/Weapon/iron_staff.png</file>
+        <file>Items/Weapon/freeze_sword.png</file>
+        <file>Items/Bow/iron_hand_bow.png</file>
+        <file>Items/Arrow/spare_fire_arrow.png</file>
+        <file>Items/Arrow/fire_arrow.png</file>
+        <file>Items/SpecialEffects/be_fire.png</file>
+        <file>Items/Weapon/fire_sword.png</file>
+        <file>Items/Arrow/freeze_arrow.png</file>
+        <file>Items/Arrow/spare_freeze_arrow.png</file>
+        <file>Items/SpecialEffects/be_freeze.png</file>
+        <file>Items/Weapon/thunder_sword.png</file>
+        <file>Items/SpecialEffects/be_thunder.png</file>
+        <file>Items/Arrow/spare_thunder_arrow.png</file>
+        <file>Items/Arrow/thunder_arrow.png</file>
+        <file>Items/Player/NPC_3.png</file>
+        <file>Items/Armor/FireProofHelmet.png</file>
+        <file>Items/Armor/ThunderProofShoes.png</file>
+        <file>Items/Player/StatusBar.png</file>
+        <file>Items/SpecialEffects/fire_defense.png</file>
+        <file>Items/SpecialEffects/freeze_defence.png</file>
+        <file>Items/SpecialEffects/thunder_defence.png</file>
+    </qresource>
+</RCC>
